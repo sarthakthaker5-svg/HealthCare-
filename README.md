@@ -2,12 +2,13 @@
 
 <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/Power_Query-Data_Transformation-2673B8?style=for-the-badge" alt="Power Query">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status: Completed">
 <img src="https://img.shields.io/badge/Dataset-55,500_Records-CC0000?style=for-the-badge" alt="Dataset">
 <img src="https://img.shields.io/badge/Project-Healthcare_Analytics-1E8449?style=for-the-badge" alt="Healthcare Analytics">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=750&lines=Healthcare+Analytics+Dashboard;Power+BI+Data+Visualization;Patient+%26+Admission+Analysis;Hospital+Billing+%26+Insurance+Insights" alt="Typing SVG for Healthcare Analytics Dashboard">
+<img src="https://readme-typing-svg.demolab.com font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=750&lines=Healthcare+Analytics+Dashboard;Power+BI+Data+Visualization;Patient+%26+Admission+Analysis;Hospital+Billing+%26+Insurance+Insights" alt="Typing SVG for Healthcare Analytics Dashboard">
 
 <br>
 
