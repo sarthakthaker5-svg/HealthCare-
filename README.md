@@ -7,9 +7,7 @@
 <img src="https://img.shields.io/badge/Project-Healthcare_Analytics-1E8449?style=for-the-badge" alt="Healthcare Analytics">
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=750&lines=Healthcare+Analytics+Dashboard;Power+BI+Data+Visualization;Patient+%26+Admission+Analysis;Hospital+Billing+%26+Insurance+Insights" alt="Typing SVG for Healthcare Analytics Dashboard">
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Healthcare+Analytics+Dashboard;Power+BI+Data+Visualization;Patient+%26+Admission+Analysis;Hospital+Billing+%26+Insurance+Insights" alt="Typing SVG for Healthcare Analytics Dashboard" />
 <br>
 
 *An interactive Power BI report for exploring patient demographics, hospital admissions, medical conditions, billing, insurance providers, and healthcare trends.*
